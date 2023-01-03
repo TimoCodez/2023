@@ -4,6 +4,8 @@ From January to June I am planning to post up at least 1 App / week.
 
 I will be adding the most important ones as a list below this:
 
+<h3>Python</h3>
 <li>
-<ol>Example 1</ol>
+<ol>CLI ToDo App</ol>
+<ol>GUI ToDo App</ol>
 </li>
