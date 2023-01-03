@@ -8,4 +8,5 @@ I will be adding the most important ones as a list below this:
 <li>
 <ol>CLI ToDo App</ol>
 <ol>GUI ToDo App</ol>
+  
 </li>
