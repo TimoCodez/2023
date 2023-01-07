@@ -5,3 +5,5 @@ Week 1 App 1
 4. to edit (type in show to see the todos and their numbers) type edit and the number => edit the todo
 5. to complete (type show to seee the unumbers again unless you remember them) type in complete and the number to complete the task
 6. to exit type in exit.
+
+This app is inspired by Ardit Sulce's Python Mega Course in Udemy
