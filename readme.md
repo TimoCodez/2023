@@ -6,7 +6,8 @@ I will be adding the most important ones as a list below this:
 
 <h3>Python</h3>
 1. CLI Todo App <br>
-2. GUI Todo App <br>
-3. Todo Webapp<br>
-4. Portfolio site
+2. File Zipper <br>
+3. GUI Todo App <br>
+4. Todo Webapp<br>
+5. Portfolio site<br>
 
