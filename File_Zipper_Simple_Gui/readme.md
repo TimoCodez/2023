@@ -1,6 +1,6 @@
 Minimum requirements Python 3.4+
 
-Download the entire file zipper folder
+Download the entire File_Zipper_Simple_Gui folder content
 Open the folder on your text editor/IDE
 PIP install PySimpleGui as suggested on the comments in filezipper.py
 you can run the program from the filezipper.py file
