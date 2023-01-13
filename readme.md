@@ -5,8 +5,8 @@ From January to June I am planning to post up at least 1 App / week.
 I will be adding the most important ones as a list below this:
 
 <h3>Python</h3>
-1. CLI Todo App <br>
-2. File Zipper <br>
+1. CLI Todo App :heavy_check_mark:<br>
+2. File Zipper :heavy_check_mark:<br>
 3. GUI Todo App <br>
 4. Todo Webapp<br>
 5. Portfolio site<br>
