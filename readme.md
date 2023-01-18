@@ -7,7 +7,7 @@ I will be adding the most important ones as a list below this:
 <h3>Python</h3>
 1. CLI Todo App :heavy_check_mark:<br>
 2. File Zipper :heavy_check_mark:<br>
-3. GUI Todo App <br>
+3. GUI Todo App :heavy_check_mark:<br>
 4. Todo Webapp<br>
 5. Portfolio site<br>
 
