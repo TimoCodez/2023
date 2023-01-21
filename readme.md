@@ -8,6 +8,6 @@ I will be adding the most important ones as a list below this:
 1. CLI Todo App :heavy_check_mark:<br>
 2. File Zipper :heavy_check_mark:<br>
 3. GUI Todo App :heavy_check_mark:<br>
-4. Todo Webapp<br>
+4. Todo Webapp :heavy_check_mark:<br>
 5. Portfolio site<br>
 
