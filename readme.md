@@ -9,5 +9,6 @@ I will be adding the most important ones as a list below this:
 2. File Zipper :heavy_check_mark:<br>
 3. GUI Todo App :heavy_check_mark:<br>
 4. Todo Webapp :heavy_check_mark:<br>
-5. Portfolio site<br>
+5. Python Pomogoro GUI :heavy_check_mark:<br>
+6. Potfolio Site
 
