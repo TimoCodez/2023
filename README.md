@@ -1,7 +1,7 @@
 In this repository you will find all the commits for 2023
 
 From January to June I am planning to post up at least 1 App / week.<br>
-Current Status: Apps/Weeks 5/5
+Current Status: Apps/Weeks 6/5
 
 I will be adding the most important ones as a list below this:
 
@@ -10,8 +10,9 @@ I will be adding the most important ones as a list below this:
 2. File Zipper :heavy_check_mark:<br>
 3. GUI Todo App :heavy_check_mark:<br>
 4. Todo Webapp :heavy_check_mark:<br>
-5. Python Pomogoro GUI :heavy_check_mark:<br>
-6. Portfolio Site
+5. Python Pomodoro GUI :heavy_check_mark:<br>
+6. PSG Digital Clock :heavy_check_mark:<br>
+7. Portfolio Site
 
 
 
