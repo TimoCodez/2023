@@ -1,5 +1,6 @@
 <h1>Python Digital Clock</h1>
 <h3>In less than 20 lines of code</h3>  
+Python version 3.10+
 
 1. first pip install PySimpleGUI or pip3 install PySimpleGU
 
