@@ -12,7 +12,7 @@ I will be adding the most important ones as a list below this:
 4. Todo Webapp :heavy_check_mark:<br>
 5. Python Pomodoro GUI :heavy_check_mark:<br>
 6. PSG Digital Clock :heavy_check_mark:<br>
-7. Portfolio Site
+7. Portfolio Site<br>
 8. ISS_Tracker :heavy_check_mark:<br>
 
 
