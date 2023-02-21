@@ -1,7 +1,7 @@
 In this repository you will find all the commits for 2023
 
 From January to June I am planning to post up at least 1 App / week.<br>
-Current Status: Apps/Weeks 6/5
+Current Status: Apps/Weeks 7/8
 
 I will be adding the most important ones as a list below this:
 
@@ -13,6 +13,7 @@ I will be adding the most important ones as a list below this:
 5. Python Pomodoro GUI :heavy_check_mark:<br>
 6. PSG Digital Clock :heavy_check_mark:<br>
 7. Portfolio Site
+8. ISS_Tracker :heavy_check_mark:<br>
 
 
 
