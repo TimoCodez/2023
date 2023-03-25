@@ -16,7 +16,8 @@ I will be adding the most important ones as a list below this:
 8. ISS_Tracker :heavy_check_mark:<br>
 
 <h3>Javascipt Projects</h3>
-1. Quote Generator :hourglass_flowing_sand:<br>
+1. Quote Generator :heavy_check_mark: [See live](https://timocodes.github.io/quote-generator)
+<br>
 
 <h3>Python Data Science and ML</h3>
 1. IBM DS Professional Cert Capstope :hourglass_flowing_sand:<br>
