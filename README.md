@@ -16,11 +16,14 @@ I will be adding the most important ones as a list below this:
 8. ISS_Tracker :heavy_check_mark:<br>
 
 <h3>Javascipt Projects</h3>
-1. Quote Generator :heavy_check_mark: [See live](https://timocodes.github.io/quote-generator)
-<br>
+
 
 <h3>Python Data Science and ML</h3>
 1. IBM DS Professional Cert Capstope :hourglass_flowing_sand:<br>
 2. Meta BackEndDeveloper :hourglass_flowing_sand:<br>
 3. Applied Data Science University of Michigan :hourglass_flowing_sand:<br>
 4. Google Python Automation :hourglass_flowing_sand:<br>
+<br>
+<br><h3>Javascipt Projects</h3>
+
+- Quote generator - [Github](https://github.com/TimoCodez/quote-generator) | [View Live](https://timocodez.github.io/quote-generator/)
