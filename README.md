@@ -15,7 +15,7 @@ I will be adding the most important ones as a list below this:
 7. Portfolio Site<br>
 8. ISS_Tracker :heavy_check_mark:<br>
 
-<h3>Javascipt Projects</h3>
+
 
 
 <h3>Python Data Science and ML</h3>
